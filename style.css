@@ -1,0 +1,10 @@
+body{
+    background:darkslateblue;
+    color:white;
+    margin: 100px auto;
+  }
+  input button{
+    font-size:1.1em;
+    border-radius:20px;
+    text-align:center;
+  }
